@@ -1,4 +1,4 @@
-<h1>Hello, my name is John and I'm an IT Professional 🙂</h1>
+<h1></h1>
 
 <h2>🔗Connect with me:</h2>
 
