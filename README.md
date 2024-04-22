@@ -7,4 +7,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/](https://www.linkedin.com/in/john-parra-72887322b/
+[linkedin]: https://linkedin.com/in/](https://www.linkedin.com/in/john-parra-72887322b/)
